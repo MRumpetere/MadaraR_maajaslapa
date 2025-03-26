@@ -1,17 +1,32 @@
 h1 {
   color: rgba(175, 102, 0, 1);
   text-align: center;
+  font-family: "Helvetica", "Arial";
+  font-size: 50px;
 }
 p {
   color: rgba(175, 102, 0, 1);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  margin-left: 20px;
 }
 h2 {
+  font-family: "Helvetica", "Arial";
   color: rgba(175, 102, 0, 1);
+  margin-left: 20px;
 }
-#saakumalapa {
+#tekstalodzins {
   background-color: rgba(107, 30, 31, 1);
-  border: 1px solid black;
   margin: 10px 400px 20px 0px;
   padding:10px 20px 20px 5px;
   border-radius: 0px 50px 50px 0px
+}
+#Parmums {
+  background-color: rgba(107, 30, 31, 1);
+  margin: 10px 0px 20px 0px;
+  padding:5px 10px 5px 10px;
+  border-radius: 10px 10px 10px 10px;
+}
+body{
+background-color: rgba(84, 18, 18, 1)
 }
